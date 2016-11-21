@@ -13,7 +13,7 @@
           </div>
       </div>
       <div class="nav-bar-search">
-        <input type='tex' name='buscar'> <input type='submit' value='Buscar'>
+        <input type='text' name='buscar'> <input type='submit' value='Buscar'>
       </div>
     </div>
     <div class="main">
